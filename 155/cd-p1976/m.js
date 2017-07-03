@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "Blues.mp3";		
+f[2]	= "Dance, Dance, Dance.mp3";		
+f[3]	= "Fly Like An Eagle.mp3";		
+f[4]	= "Intro.mp3";		
+f[5]	= "Maree.mp3";		
+f[6]	= "Odyssey.mp3";		
+f[7]	= "Rock 'N Me.mp3";		
+f[8]	= "Serenade.mp3";		
+f[9]	= "Take The Money And Run.mp3";		
+f[10]	= "Wild Mountain Honey.mp3";		
+f[11]	= "Window.mp3";		
+f[12]	= "You Send Me.mp3";		
