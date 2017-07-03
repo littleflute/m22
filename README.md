@@ -1,6 +1,8 @@
-[v0.0.5](https://github.com/littleflute/m22/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/m22/edit/master/README.md)
 
 [153](153)
+
+[155](155)
 
 [157](157)
 
